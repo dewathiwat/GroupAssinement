@@ -50,4 +50,11 @@ li {
 li.price {
   text-decoration: line-through;
 }
+
+@media only screen and (max-width: 768px) {
+  img.carouselimg {
+    height: 496px;
+    width: 100%;
+  }
+}
 /*# sourceMappingURL=style.css.map */
