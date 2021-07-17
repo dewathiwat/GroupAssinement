@@ -42,8 +42,7 @@ header {
 .bag {
     position: absolute;
     width: 16.13px;
-    height: 18rem;
-    left: 15rem;
+    left: 85%;
 }
 
 li {
@@ -53,4 +52,12 @@ li {
 
 li.price {
     text-decoration: line-through;
+}
+@media only screen and (max-width: 768px){
+    //Dew
+
+    //Doom
+
+    //Frist
+    
 }
