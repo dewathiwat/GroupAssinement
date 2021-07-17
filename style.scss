@@ -13,7 +13,7 @@ img.carouselimg {
     width: 100%;
 }
 
-p.sideH{
+p.sideH {
     margin-bottom: 7rem;
 }
 
@@ -45,5 +45,9 @@ header {
 
 li {
     display: inline;
-    margin-right: 1rem;
+    margin-right: 10px;
+}
+
+li.price {
+    text-decoration: line-through;
 }

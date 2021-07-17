@@ -41,6 +41,10 @@ header .h-100 {
 
 li {
   display: inline;
-  margin-right: 1rem;
+  margin-right: 10px;
+}
+
+li.price {
+  text-decoration: line-through;
 }
 /*# sourceMappingURL=style.css.map */
