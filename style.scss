@@ -25,6 +25,9 @@ header {
     .h-100 {
         height: auto;
     }
+    .xx{
+        background-color: rgb(27, 27, 27);
+    }
 }
 
 .logo {
@@ -56,8 +59,33 @@ li.price {
 @media only screen and (max-width: 768px){
     //Dew
 
+   
+    header {
+       
+        .xx{
+            background-color: rgb(253, 253, 253);
+        }
+    }
+
+    ul{
+        visibility:hidden;
+
+    }
+    .logo,.Rectanggle{
+        visibility:hidden;
+    }
+    .bag .cv{
+color: black;
+    }
+
     //Doom
 
     //Frist
+
+    .col{
+        margin-left: 18%;
+        
+
+    }
     
 }

@@ -24,6 +24,10 @@ header .h-100 {
   height: auto;
 }
 
+header .xx {
+  background-color: #1b1b1b;
+}
+
 .logo {
   margin: 0 20px 0 20px;
   width: 50px;
@@ -49,5 +53,23 @@ li {
 
 li.price {
   text-decoration: line-through;
+}
+
+@media only screen and (max-width: 768px) {
+  header .xx {
+    background-color: #fdfdfd;
+  }
+  ul {
+    visibility: hidden;
+  }
+  .logo, .Rectanggle {
+    visibility: hidden;
+  }
+  .bag .cv {
+    color: black;
+  }
+  .col {
+    margin-left: 18%;
+  }
 }
 /*# sourceMappingURL=style.css.map */
