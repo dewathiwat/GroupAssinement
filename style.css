@@ -25,4 +25,8 @@ li {
   display: inline;
   margin-right: 10px;
 }
+img.carouselimg {
+  height: 675px;
+  width: 100%;
+}
 /*# sourceMappingURL=style.css.map */
