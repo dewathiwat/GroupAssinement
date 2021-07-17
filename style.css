@@ -1,3 +1,17 @@
+.card-img-top {
+  height: 300px;
+  width: 270px;
+}
+
+.row {
+  margin-bottom: 50px;
+}
+
+img.carouselimg {
+  height: 675px;
+  width: 100%;
+}
+
 header .h-100 {
   height: auto;
 }
@@ -24,9 +38,5 @@ header .h-100 {
 li {
   display: inline;
   margin-right: 10px;
-}
-img.carouselimg {
-  height: 675px;
-  width: 100%;
 }
 /*# sourceMappingURL=style.css.map */
