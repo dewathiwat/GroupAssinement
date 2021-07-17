@@ -6,4 +6,37 @@
 .row {
   margin-bottom: 50px;
 }
+
+img.carouselimg {
+  height: 675px;
+  width: 100%;
+}
+
+header .h-100 {
+  height: auto;
+}
+
+.logo {
+  margin: 0 20px 0 20px;
+  width: 50px;
+  height: 50px;
+  background: url(/img/logo.png);
+}
+
+.Rectanggle {
+  left: 10%;
+  margin: 0 20px 0 20px;
+}
+
+.bag {
+  position: absolute;
+  width: 16.13px;
+  height: 18px;
+  left: 1375px;
+}
+
+li {
+  display: inline;
+  margin-right: 10px;
+}
 /*# sourceMappingURL=style.css.map */
