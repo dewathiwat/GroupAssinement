@@ -31,12 +31,12 @@ header .h-100 {
 .bag {
   position: absolute;
   width: 16.13px;
-  height: 18px;
-  left: 1375px;
+  height: 18rem;
+  left: 15rem;
 }
 
 li {
   display: inline;
-  margin-right: 10px;
+  margin-right: 1rem;
 }
 /*# sourceMappingURL=style.css.map */
