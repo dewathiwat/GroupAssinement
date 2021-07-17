@@ -1,1 +1,9 @@
-/* No CSS *//*# sourceMappingURL=style.css.map */
+.card-img-top {
+  height: 300px;
+  width: 270px;
+}
+
+.row {
+  margin-bottom: 50px;
+}
+/*# sourceMappingURL=style.css.map */
